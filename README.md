@@ -10,3 +10,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="Debian" height="32"/>
 </p>
+
+<img src="https://media.giphy.com/media/b2mYLTxIbMirEmy9I3/giphy.gif" width="400" alt="GIF"/>
